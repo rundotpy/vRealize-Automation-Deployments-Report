@@ -4,6 +4,7 @@ A complex vRealize Automation environment can have hundreds of catalog items, th
 
 The deployments report Excel file has has the following columns : `Deployment_Name`, `Submitted_Date`, `Requested_By`, `Requested_For`, `Deployment ID` and `Deployment State`
 
+A sample output report can be [found here](https://github.com/rundotpy/vRealize-Automation-Deployments-Report/tree/main/sample-report)
 
 ## Required input data
 
